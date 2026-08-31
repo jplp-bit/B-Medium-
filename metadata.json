@@ -1,5 +1,5 @@
 {
-  "name": "Blog Platform",
+  "name": "B Medium",
   "description": "A production-quality full-stack blog platform with authentication, markdown editor, comments, bookmarks, search, and admin dashboard.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
